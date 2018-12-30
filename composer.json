@@ -1,0 +1,14 @@
+{
+    "name": "sd1058685/demo1",
+    "description": "test project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Rui",
+            "email": "461844520@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
